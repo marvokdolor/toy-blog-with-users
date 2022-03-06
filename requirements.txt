@@ -2,7 +2,6 @@ certifi==2021.10.8
 chardet==4.0.0
 charset-normalizer==2.0.12
 click==8.0.4
-dataclasses==0.8
 dnspython==2.2.0
 dominate==2.6.0
 email-validator==1.1.3
